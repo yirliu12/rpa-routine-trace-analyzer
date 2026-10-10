@@ -15,7 +15,7 @@ Together, the stages move from validating an observed trace to identifying routi
 
 ## Assignment context
 
-Coursework for **COMP10002: Foundations of Algorithms**, University of Melbourne. 
+Coursework for **COMP10002: Foundations of Algorithms**, University of Melbourne.  
 
 ## Repository contents
 
